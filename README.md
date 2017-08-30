@@ -4,11 +4,11 @@
 
 ------
 
-##Problem Set 1 : Getting Started
+## Problem Set 1 : Getting Started
 
 ### (10 Points)
 
-###Due Tuesday September 5, 2017, Midnight
+### Due Tuesday September 5, 2017, Midnight
 
 This is a warm-up assignment that is intended to help you with your system setup and with breaking the ice with coding in OCaml. There are 3 parts: invitations, system setup and then 4 simple coding problems.
 
